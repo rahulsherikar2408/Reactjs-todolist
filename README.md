@@ -45,6 +45,11 @@ This is a simple and interactive Todo List application built with React. The app
     npm run dev
     ```
 
+5. Open your browser and navigate to:
+    ```
+    http://localhost:5173/
+    ```
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for new features.
